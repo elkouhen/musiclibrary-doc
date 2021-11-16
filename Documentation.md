@@ -58,3 +58,5 @@
 
 [Exemple Implémentation Authorizer](https://blog.codecentric.de/en/2018/04/aws-lambda-authorizer/)
 
+[Extensions OpenAPI](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-swagger-extensions-authorizer.html)
+
