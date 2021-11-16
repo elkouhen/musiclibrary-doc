@@ -48,4 +48,4 @@ Python 3.9.6
 
 Installer les librairies python
 
-pip install --upgrade pip invoke wget configobj psutil --user
+pip install --upgrade pip invoke wget configobj psutil pytz --user

@@ -17,12 +17,14 @@ region = eu-west-3
 Sous Linux
 
 ``` bash
+export AWS_DEFAULT_REGION=eu-west-3
 export AWS_DEFAULT_PROFILE=profile_cours_serverless
 ```
 
 Sous Windows
 
 ``` bash
+set AWS_DEFAULT_REGION=eu-west-3
 set AWS_DEFAULT_PROFILE=profile_cours_serverless
 ```
 
